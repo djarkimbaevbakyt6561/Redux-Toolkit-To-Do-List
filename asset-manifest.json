@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Redux-Toolkit-To-Do-List/static/css/main.a89f8d8f.css",
+    "main.js": "/Redux-Toolkit-To-Do-List/static/js/main.0e2ad4da.js",
+    "static/media/bg.jpg": "/Redux-Toolkit-To-Do-List/static/media/bg.dd74067cee9d46b0a987.jpg",
+    "index.html": "/Redux-Toolkit-To-Do-List/index.html",
+    "main.a89f8d8f.css.map": "/Redux-Toolkit-To-Do-List/static/css/main.a89f8d8f.css.map",
+    "main.0e2ad4da.js.map": "/Redux-Toolkit-To-Do-List/static/js/main.0e2ad4da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a89f8d8f.css",
+    "static/js/main.0e2ad4da.js"
+  ]
+}
